@@ -1,7 +1,7 @@
 # Box-Shooter-WebGL-Build
 Box Shooter Game
 
-In This Fun Game we have to get The max Score of Level to pass to next Level in a limited amount of time (Level 1 : 50 , Level 2 : 150 , Intital Time = 15 seconds ) . Hitting Green Boxes Increase The score , Hitting White Boxes Increase The Time ; However Hitting Golden Boxes Lowers The Time . Hitting many Golden Boxes results in losing the level
+In This Fun Game we have to get The max Score of Level to pass to next Level in a limited amount of time (Level 1 : 50 , Level 2 : 150 , Intital Time = 15 seconds ) . Hitting Green Boxes Increase The score , Hitting White Boxes Increase The Time ; However Hitting Golden Boxes Lowers The Time . Hitting many Golden Boxes / Running out of time before hitting the required score ; results in losing the level
 
 Source code : https://drive.google.com/file/d/1QMXXv1FGxXx3qqfPaHgtOBISbWQEJGwh/view?usp=sharing
 
